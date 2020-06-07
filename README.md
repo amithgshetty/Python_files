@@ -1,7 +1,7 @@
 # Python_files
-Notes taken in the class and the assesments
+Python notes and techniques 
 
 
-def hello world():
+'''def hello world():
       print("hello world")
-      ##simple program in the python to start with
+##simple program in the python to start with'''
